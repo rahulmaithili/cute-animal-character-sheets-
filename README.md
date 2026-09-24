@@ -1,6 +1,6 @@
 # 🐾 100 Cute Animal Character Sheets — Pixar 3D Style
 
-> **By Sifu Yik** | Downloaded & Organized for AI Video & Content Creation
+> **By Mr.Rahul Scripts** | Curated & Organized for AI Video & Content Creation
 
 A complete collection of **80 high-quality Disney/Pixar-inspired 3D animal character reference sheets** — each with full turnaround poses, expressions, color palettes, fur/texture macros and habitat details. Use these for AI video generation, Midjourney prompts, Kling AI animation, and social media content.
 
@@ -145,4 +145,4 @@ See `10_pages_setup_guide.txt` for complete page names, bios and categories.
 
 ---
 
-*Collection sourced from Yik Chan (Sifu Yik) — 100 Cute Animal Reference Character Prompts*
+*Created & Curated by **Mr.Rahul Scripts** — 100 Cute Animal 3D Character Sheets Collection*
