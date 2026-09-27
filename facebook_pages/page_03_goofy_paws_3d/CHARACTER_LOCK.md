@@ -3,6 +3,13 @@
 ## Approved Pool
 Bubbles, Bramble, Penny, Milo, Rusty
 
+## Sheet References
+- Bubbles → `facebook_images/BUBBLES.jpg`
+- Bramble → `facebook_images/BRAMBLE.jpg`
+- Penny → `facebook_images/PENNY.jpg`
+- Milo → `facebook_images/MILO.jpg`
+- Rusty → `facebook_images/RUSTY.jpg`
+
 ## Rules
 - Select characters only from the approved repository reference sheets.
 - Preserve exact facial structure, eye color, body proportions, species traits, fur/skin/feather patterns and established accessories.

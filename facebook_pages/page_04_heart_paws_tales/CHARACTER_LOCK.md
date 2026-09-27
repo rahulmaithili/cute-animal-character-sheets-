@@ -3,6 +3,13 @@
 ## Approved Pool
 Clover, Pip, Pebble, Milo, Penny
 
+## Sheet References
+- Clover → `facebook_images/CLOVER.jpg`
+- Pip → `facebook_images/PIP.jpg`
+- Pebble → `facebook_images/PEBBLE.jpg`
+- Milo → `facebook_images/MILO.jpg`
+- Penny → `facebook_images/PENNY.jpg`
+
 ## Rules
 - Select characters only from the approved repository reference sheets.
 - Preserve exact facial structure, eye color, body proportions, species traits, fur/skin/feather patterns and established accessories.

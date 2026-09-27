@@ -3,6 +3,13 @@
 ## Approved Pool
 Barnaby, Nori, Pebble, Finn, Clover
 
+## Sheet References
+- Barnaby → `facebook_images/BARNABY.jpg`
+- Nori → `facebook_images/NORI.jpg`
+- Pebble → `facebook_images/PEBBLE.jpg`
+- Finn → `facebook_images/FINN.jpg`
+- Clover → `facebook_images/CLOVER.jpg`
+
 ## Rules
 - Select characters only from the approved repository reference sheets.
 - Preserve exact facial structure, eye color, body proportions, species traits, fur/skin/feather patterns and established accessories.

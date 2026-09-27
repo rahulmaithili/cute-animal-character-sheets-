@@ -3,6 +3,13 @@
 ## Approved Pool
 Bandit, Finn, Rusty, Clover, Bramble
 
+## Sheet References
+- Bandit → `facebook_images/BANDIT.jpg`
+- Finn → `facebook_images/FINN.jpg`
+- Rusty → `facebook_images/RUSTY.jpg`
+- Clover → `facebook_images/CLOVER.jpg`
+- Bramble → `facebook_images/BRAMBLE.jpg`
+
 ## Rules
 - Select characters only from the approved repository reference sheets.
 - Preserve exact facial structure, eye color, body proportions, species traits, fur/skin/feather patterns and established accessories.

@@ -3,6 +3,13 @@
 ## Approved Pool
 Bandit, Nori, Barnaby, Finn, Luna
 
+## Sheet References
+- Bandit → `facebook_images/BANDIT.jpg`
+- Nori → `facebook_images/NORI.jpg`
+- Barnaby → `facebook_images/BARNABY.jpg`
+- Finn → `facebook_images/FINN.jpg`
+- Luna → `facebook_images/LUNA.jpg`
+
 ## Rules
 - Select characters only from the approved repository reference sheets.
 - Preserve exact facial structure, eye color, body proportions, species traits, fur/skin/feather patterns and established accessories.

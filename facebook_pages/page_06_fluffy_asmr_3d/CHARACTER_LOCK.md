@@ -3,6 +3,13 @@
 ## Approved Pool
 Milo, Mini, Rusty, Pip, Barnaby
 
+## Sheet References
+- Milo → `facebook_images/MILO.jpg`
+- Mini → `facebook_images/MINI.jpg`
+- Rusty → `facebook_images/RUSTY.jpg`
+- Pip → `facebook_images/PIP.jpg`
+- Barnaby → `facebook_images/BARNABY.jpg`
+
 ## Rules
 - Select characters only from the approved repository reference sheets.
 - Preserve exact facial structure, eye color, body proportions, species traits, fur/skin/feather patterns and established accessories.
