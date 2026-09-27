@@ -7,13 +7,23 @@
 
 ## UNIVERSAL STORY ENGINE (applies to every page)
 
-Every 30-second episode is a complete mini-film in 3 acts:
+Every episode is a complete mini-film in 3 acts. Two runtimes exist:
+
+**Format A — 30 seconds** (Page 1 Ep1–25): 3 shots × 10s.
 
 | Act | Time | Job |
 |-----|------|-----|
 | **ACT 1 — HOOK + WANT** | 0–8s | Cold open inside the action in the first 2 seconds (no slow establishing shot). Establish the character and what they want — or the problem that just exploded. |
 | **ACT 2 — OBSTACLE + TRY/FAIL** | 8–22s | Something blocks the want. Two attempts: first fails funny, second fails bigger (or twists). Stakes rise. |
 | **ACT 3 — PAYOFF** | 22–30s | Clever solution, twist, or emotional button. The payoff must feel EARNED by Act 2. Page-signature ending. |
+
+**Format B — 60 seconds** (Page 1 Ep26+, default for new work from 2026-09-28): 6 shots × 10s. Same 3 acts, more room to breathe — extra try/fail beat and a midpoint twist.
+
+| Act | Time | Job |
+|-----|------|-----|
+| **ACT 1 — HOOK + WANT** | 0–15s | Cold open in the first 2 seconds. Establish character, want, and world. End the act with the hook question. |
+| **ACT 2 — OBSTACLE + TRY/FAIL** | 15–45s | Three escalating attempts (funny fail → bigger fail → twist). Midpoint surprise at ~30s to reset attention. |
+| **ACT 3 — PAYOFF** | 45–60s | Clever solution, emotional button, earned cozy close. |
 
 ### Engagement Rules (non-negotiable, from audience feedback)
 1. **0–2s cold open** — start mid-action, mid-surprise, or mid-reaction.
@@ -25,8 +35,8 @@ Every 30-second episode is a complete mini-film in 3 acts:
 ### Film-Plan Workflow (per episode)
 1. **Film-plan** written: title, logline, 3-act beats, 3-shot list (camera + action + sound).
 2. **User approves** the film-plan.
-3. **Shoot**: 3 shots × ~10s, character reference locked, match-cut continuity.
-4. **Stitch**: white-flash transitions, exactly 30.0s, upload to page Drive folder.
+3. **Shoot**: shots × ~10s each (3 for 30s episodes, 6 for 60s episodes), character reference locked, match-cut continuity.
+4. **Stitch**: white-flash transitions, exact runtime (30.0s or 60.0s), upload to page Drive folder.
 
 ### Arc Structure (retention across episodes)
 Every 5 episodes form a **mini-arc** — a continuing thread with a cliffhanger every 5th episode's ending teasing the next arc. Standalone episodes still work alone, but arc viewers binge.
@@ -233,4 +243,4 @@ Every 5 episodes form a **mini-arc** — a continuing thread with a cliffhanger 
 4. **Engagement rules apply everywhere** — even ASMR and showcase pages hook in 2s.
 5. **No silent lookalike substitution** — if a character has no sheet, they don't appear.
 
-*End of Bible v1.0*
+*End of Bible v1.1 — 60s format added 2026-09-28*
