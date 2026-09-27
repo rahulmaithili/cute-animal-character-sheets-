@@ -2,7 +2,7 @@
 
 > **By Mr.Rahul Scripts** | Curated & Organized for AI Video & Content Creation
 
-A complete collection of **80 high-quality Disney/Pixar-inspired 3D animal character reference sheets** — each with full turnaround poses, expressions, color palettes, fur/texture macros and habitat details. Use these for AI video generation, Midjourney prompts, Kling AI animation, and social media content.
+A complete collection of **88 high-quality Disney/Pixar-inspired 3D animal character reference sheets** — each with full turnaround poses, expressions, color palettes, fur/texture macros and habitat details. Use these for AI video generation, Midjourney prompts, Kling AI animation, and social media content.
 
 ---
 
@@ -10,7 +10,7 @@ A complete collection of **80 high-quality Disney/Pixar-inspired 3D animal chara
 
 ```
 📦 cute-animal-character-sheets
- ┣ 📂 facebook_images/         → 80 original 1600x2000 character sheets
+ ┣ 📂 facebook_images/         → 88 character sheets (80 original + 8 new: Milo, Barnaby, Finn, Rusty, Bubbles, Penny, Pebble, Nori)
  ┣ 📂 10_pages_assets/         → Profile avatars for 10 social media pages
  ┣ 📄 README.md                → This file (image index + ChatGPT prompts)
  ┣ 📄 unlimited_video_prompts.txt → 100 ready-to-use AI video prompts
@@ -102,6 +102,14 @@ A complete collection of **80 high-quality Disney/Pixar-inspired 3D animal chara
 | 77 | Spindle | Echidna | SPINDLE.jpg | [SPINDLE.jpg](facebook_images/SPINDLE.jpg) |
 | 78 | Sunny | Quokka | SUNNY_QUOKKA.jpg | [SUNNY_QUOKKA.jpg](facebook_images/SUNNY_QUOKKA.jpg) |
 | 79 | Tide | Sea Cow / Dugong | TIDE.jpg | [TIDE.jpg](facebook_images/TIDE.jpg) |
+| 80 | Milo | Golden Retriever Puppy (sleepy) | MILO.jpg | [MILO.jpg](facebook_images/MILO.jpg) |
+| 81 | Barnaby | Snowy Baby Owl | BARNABY.jpg | [BARNABY.jpg](facebook_images/BARNABY.jpg) |
+| 82 | Finn | Baby Fennec Fox | FINN.jpg | [FINN.jpg](facebook_images/FINN.jpg) |
+| 83 | Rusty | Red Panda | RUSTY.jpg | [RUSTY.jpg](facebook_images/RUSTY.jpg) |
+| 84 | Bubbles | Chubby Hamster | BUBBLES.jpg | [BUBBLES.jpg](facebook_images/BUBBLES.jpg) |
+| 85 | Penny | Baby Piglet | PENNY.jpg | [PENNY.jpg](facebook_images/PENNY.jpg) |
+| 86 | Pebble | Baby Sea Turtle | PEBBLE.jpg | [PEBBLE.jpg](facebook_images/PEBBLE.jpg) |
+| 87 | Nori | Blue Poison Dart Frog | NORI.jpg | [NORI.jpg](facebook_images/NORI.jpg) |
 
 > 📌 **Complete Prompt Mapping Guide**: For detailed AI video generation prompts mapped to each character, see [CHARACTER_PROMPTS_MAPPING.md](CHARACTER_PROMPTS_MAPPING.md) and [unlimited_video_prompts.txt](unlimited_video_prompts.txt).
 
