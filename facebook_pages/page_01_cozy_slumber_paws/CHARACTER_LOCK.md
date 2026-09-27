@@ -1,7 +1,7 @@
 # Character Lock — Page 01
 
 ## MINI
-Reference: `facebook_images/image_002.jpg`
+Reference: `facebook_images/MINI.jpg`
 Known repository identity: Mini — Pygmy Marmoset.
 Established visual cue: tiny marmoset, pink flower crown, giant curious amber eyes.
 Permanent rule: preserve the exact reference-sheet design rather than regenerating a generic marmoset.
